@@ -10,5 +10,24 @@ class Datentypen_und_Literale_2 {
         double y = 6.3; // nummerische Zahl: Gleitkommazahl
         char z = 'K';
         String m = "Hi there!";
+
+        // System.out.print("Hello world" + "\n");
+        // System.out.println("Heeeey!!!!!");
+
+
+        int a = 7;
+        int b = 30;
+        int ergebnis = a + b;
+
+        System.out.println(ergebnis);
+
+        double meinPrivatesTelefonNummer = 347.234543;
+        double mein_privates_telefon_nummer = 347.234543;
+
+        char meineBesondereVariable = 'b';
+        String name = "Joudi";
+
+        // Syntax == grammatik
+        // Konvention == mutafak alaeeh
     }
 }
