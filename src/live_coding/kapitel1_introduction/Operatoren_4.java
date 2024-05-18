@@ -80,5 +80,63 @@ public class Operatoren_4 {
         System.out.println(5 == 5); // true
         System.out.println(!(5 == 5)); // false
 
+        // -------- Weitere Beispiele ---------
+
+        int x = 7;
+        int y = 1000;
+
+        int summe =  x + y;
+        System.out.println(summe); // 1007
+        System.out.println(x + y); // 1007
+
+        boolean vergleich = x < y;
+        System.out.println(vergleich); // true
+        System.out.println(x < y); // true
+
+        System.out.println(x > y); // false
+        System.out.println(7 <= 1000); // true
+        System.out.println((7 < 1000) || (7 == 1000)); // true
+        System.out.println(7 >= 7); // true
+        System.out.println(7 == 7); // true
+        System.out.println(7 == 9); // false
+        System.out.println(7 != 9); // ist 7 ungleich 9? true
+        System.out.println(7 != 7); // ist 7 ungleich 7? false
+
+        // logische operatoren: nur mit boolische Werte (true, false)
+        //  UND (AND) Operator
+        boolean ergebnis1 = false && false; // false
+        boolean ergebnis2 = false && true; // false
+        boolean ergebnis3 = true && false; // false
+        boolean ergebnis4 = true && true; // true
+
+        System.out.println(ergebnis1);
+        System.out.println(ergebnis2);
+        System.out.println(ergebnis3);
+        System.out.println(ergebnis4);
+
+        // ODER (OR) Operator
+        System.out.println(false || false); // false
+        System.out.println(false || true); // true
+        System.out.println(true || false); // true
+        System.out.println(true || true); // true
+
+
+        System.out.println((1 < 2) && (3 < 4)); // true && true -> true
+
+        System.out.println((1 < 2) && (3 > 4)); // false
+        System.out.println((1 < 2) || (3 > 4)); // true
+        System.out.println((1 <= 2) || (3 > 4)); // true
+
+        // Nicht Operator (not)
+        // !
+        System.out.println(true);// true
+        System.out.println(!true);// false
+        System.out.println(!false);// true
+
+        System.out.println(!(false || false)); // true
+        System.out.println(!(false || false) && True && (x < y)); // true
+        System.out.println(true && false || false); // false
+        System.out.println(true || false && false); // true
+
     }
 }
