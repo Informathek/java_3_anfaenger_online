@@ -134,7 +134,7 @@ public class Operatoren_4 {
         System.out.println(!false);// true
 
         System.out.println(!(false || false)); // true
-        System.out.println(!(false || false) && True && (x < y)); // true
+        System.out.println(!(false || false) && true && (x < y)); // true
         System.out.println(true && false || false); // false
         System.out.println(true || false && false); // true
 

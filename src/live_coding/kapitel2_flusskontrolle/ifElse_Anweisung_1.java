@@ -3,9 +3,48 @@ package live_coding.kapitel2_flusskontrolle;
 public class ifElse_Anweisung_1 {
     public static void main(String[] args) {
 
+
+        String heute = "Samstag";
+        boolean abwesende = true; // es gibt keine abwesenden
+        String startzeit = "";
+
+        System.out.println("Bevore if-Anweisung");
+
+        /*
+        if(   (heute == "Samstag") || (heute == "Sonntag")   ){
+            System.out.println("In der if-block");
+            System.out.println("Wir haben Unterricht");
+            x = 10;
+            System.out.println(x);
+        }
+        */
+
+        if(heute == "Samstag"){
+            System.out.println("In der if-block");
+            System.out.println("Wir haben Unterricht");
+
+            if(abwesende == false){
+                startzeit = "10:30";
+                System.out.println(startzeit);
+
+            }
+
+            else { //  if(abwesende == true)
+                startzeit = "10:00";
+                System.out.println(startzeit);
+            }
+
+            System.out.println("Wir haben den Startzeit zugestimmt");
+        }
+
+        System.out.println("Nach if-Anweisung");
+        System.out.println(startzeit);
+
+        // ---------------------------------------------------------------------
+        // Weiteres Beispiel
         //  Kinder unter 10 Jahren dürfen kein Handy kaufen.
         //  Kiner zwischen 10 und 12 Jahren dürfen nur bis zu 2 Stunden pro Tag mit dem Handy spielen.
-        //  Kinder ab 13 Jahre koennen ein Handy haben."
+        //  Kinder ab 13 Jahre dürfen ein Handy haben."
 
         int alter = 15; // das kann irgendeine beliebige nummer sein.
 
