@@ -61,16 +61,23 @@ public class ifElse_Anweisung_1 {
         System.out.println("--------------------------------------------------------");
         System.out.println("Eine andere schreibweise:");
 
-        if (alter < 10) {
-            System.out.println("Du darfst KEIN Handy haben");
+        if(alter < 10){
+            // wenn alter < 10
+            System.out.println("kein Handy!!");
         }
+
         else {
-            if(alter < 13) {
-                System.out.println("Du darfst NUR 2 Stunden am Tag mit dem Handy spielen");
+            // wenn alter >= 10
+            if(alter < 13){
+                // wenn alter kleiner 13 (und >= 10)
+                System.out.println("Nur 2 stunden am Tag");
             }
             else {
-                System.out.println("Du darfst ein Handy haben");
+                // wenn alter groesser 13 (und >= 10)
+                System.out.println("Duerfen ein Handy besitzen");
             }
+
         }
+
     }
 }
