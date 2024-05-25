@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add if else">
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/WhileSchleife.java" afterDir="false" />
+    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add while">
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel1_introduction/Input_und_Random_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/While_scanner_random_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/WhileSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/WhileSchleife_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +40,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Datentypen_und_Literale_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operatoren_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileSchleife.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Datentypen_und_Literale_3.executor": "Run",
+    "Application.Input_und_Random_7.executor": "Run",
+    "Application.Operatoren_4.executor": "Run",
+    "Application.WhileSchleife.executor": "Run",
+    "Application.While_scanner_random_3.executor": "Run",
+    "Application.ifElse_Anweisung_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="live_coding.kapitel2_flusskontrolle" />
       <recent name="live_coding.kapitel1_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ifElse_Anweisung_1">
+  <component name="RunManager" selected="Application.While_scanner_random_3">
+    <configuration name="Input_und_Random_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel1_introduction.Input_und_Random_7" />
+      <module name="java_3_anfaenger_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="live_coding.kapitel1_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Operatoren_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="live_coding.kapitel1_introduction.Operatoren_4" />
       <module name="java_3_anfaenger_online" />
@@ -76,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSchleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel2_flusskontrolle.WhileSchleife" />
+    <configuration name="WhileSchleife_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel2_flusskontrolle.WhileSchleife_2" />
+      <module name="java_3_anfaenger_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="live_coding.kapitel2_flusskontrolle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While_scanner_random_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel2_flusskontrolle.While_scanner_random_3" />
       <module name="java_3_anfaenger_online" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.While_scanner_random_3" />
+        <item itemvalue="Application.Input_und_Random_7" />
+        <item itemvalue="Application.WhileSchleife_2" />
         <item itemvalue="Application.ifElse_Anweisung_1" />
-        <item itemvalue="Application.WhileSchleife" />
         <item itemvalue="Application.Operatoren_4" />
       </list>
     </recent_temporary>
@@ -124,6 +157,12 @@
       <workItem from="1716016781132" duration="26000" />
       <workItem from="1716029201478" duration="16000" />
       <workItem from="1716029245201" duration="3241000" />
+      <workItem from="1716124912568" duration="2828000" />
+      <workItem from="1716141275379" duration="1000" />
+      <workItem from="1716146148849" duration="1000" />
+      <workItem from="1716393539411" duration="408000" />
+      <workItem from="1716624058770" duration="603000" />
+      <workItem from="1716625200063" duration="7492000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <option name="closed" value="true" />
@@ -173,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716029487837</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update ifelse example">
+      <option name="closed" value="true" />
+      <created>1716125015182</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716125015182</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add while">
+      <option name="closed" value="true" />
+      <created>1716131347468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716131347468</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +252,8 @@
     <MESSAGE value="add kapitel 2" />
     <MESSAGE value="finish operatoren" />
     <MESSAGE value="add if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="add if else" />
+    <MESSAGE value="update ifelse example" />
+    <MESSAGE value="add while" />
+    <option name="LAST_COMMIT_MESSAGE" value="add while" />
   </component>
 </project>

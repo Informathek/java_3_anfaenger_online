@@ -11,7 +11,7 @@ package live_coding.kapitel2_flusskontrolle;
 // 3. for each -schleife (machen wir nicht)
 // 4. do-while (machen wir nicht)
 
-class WhileSchleife {
+class WhileSchleife_2 {
     public static void main(String[] args) {
 
 
