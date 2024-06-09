@@ -1,29 +1,69 @@
 package live_coding.kapitel4_methods;
 
 public class methods_1 {
-    // definition der von mir selbst definierte Methode
-    public static void myPrintTextMethode(){
-        System.out.println("hi zu unserem program");
-        System.out.println("we love java");
-        System.out.println("good bye!!");
-        System.out.println("=====================");
-        System.out.println();
+
+    // ohne param, ohne return
+    public static void willkommenMethode() {
+        System.out.println("hi");
+        System.out.println("i love java");
+        System.out.println("hi nochmal ");
+        System.out.println("i love coding");
+        System.out.println("bye");
+        System.out.println("============");
+    }
+
+    // mit param, ohne return
+    public static void printMax(int x, int y) {
+        String name = "alaa";
+        if (x > y){
+            System.out.println(x);
+        }
+        else {
+            System.out.println(y);
+        }
+    }
+
+    // ohne param, mit return
+    public static String begruessung(){
+//        String message = "Willkommen zu unserem Program..!";
+//        return message
+        return "Willkommen zu unserem Program..!";
+    }
+
+    // mit param, mit return
+    public static double berechneFlaecheDreieck(int basis, int hoehe){
+        // 6 / 2 = 3
+        // 6.0 / 2 = 3.0
+        // 6 / 2.0 = 3.0
+
+        double ergebnis = basis * hoehe / 2.0;
+        return ergebnis;
     }
 
 
     public static void main(String[] args) {
-        int x = 7;
-        System.out.println(x);
-        // aufruf der von mir selbst definierete Methode (verwendung)
-        myPrintTextMethode();
+        System.out.println(begruessung());
 
-        int ergebnis = x * 10;
-        System.out.println(ergebnis);
-        // ten years later
-        myPrintTextMethode();
+        System.out.println("jean");
+        willkommenMethode();
+        willkommenMethode();
+        System.out.println("Lamiaa");
 
+        int zahl1 = 7;
+        int zahl2 = 8;
+        int zahl3 = 9;
 
-        // 1000 years alter
-        myPrintTextMethode();
+        printMax(zahl1, zahl2);
+
+        printMax(34980573, 34980473);
+
+        // int x = 16;
+        System.out.println(Math.sqrt(16));
+
+        System.out.println("----------------");
+        double meinErgebnis1 = berechneFlaecheDreieck(3, 9);
+        double meinErgebnis2 = berechneFlaecheDreieck(6, 5);
+        System.out.println(meinErgebnis1);
+        System.out.println(meinErgebnis2);
     }
 }
