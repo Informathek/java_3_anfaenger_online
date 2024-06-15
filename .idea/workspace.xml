@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add while">
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel1_introduction/Input_und_Random_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/While_scanner_random_3.java" afterDir="false" />
+    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add hausaufgaben 0-4 markdowns">
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/Methods_2_wiederholung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_2_static.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/WhileSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/live_coding/kapitel2_flusskontrolle/WhileSchleife_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/methods_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/Methods_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +42,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays_1.executor": "Run",
+    "Application.Arrays_2_wiederholung.executor": "Run",
     "Application.Datentypen_und_Literale_3.executor": "Run",
     "Application.Input_und_Random_7.executor": "Run",
+    "Application.Methods_2_wiederholung.executor": "Run",
+    "Application.OOP_1_intro.executor": "Run",
+    "Application.OOP_2_intro_wiederholung.executor": "Run",
     "Application.Operatoren_4.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
     "Application.While_scanner_random_3.executor": "Run",
     "Application.ifElse_Anweisung_1.executor": "Run",
+    "Application.methods_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -67,7 +74,7 @@
       <recent name="live_coding.kapitel1_introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While_scanner_random_3">
+  <component name="RunManager">
     <configuration name="Input_und_Random_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="live_coding.kapitel1_introduction.Input_und_Random_7" />
       <module name="java_3_anfaenger_online" />
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operatoren_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel1_introduction.Operatoren_4" />
+    <configuration name="Methods_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel4_methods.Methods_1" />
       <module name="java_3_anfaenger_online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="live_coding.kapitel1_introduction.*" />
+          <option name="PATTERN" value="live_coding.kapitel4_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSchleife_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel2_flusskontrolle.WhileSchleife_2" />
+    <configuration name="Methods_2_wiederholung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel4_methods.Methods_2_wiederholung" />
       <module name="java_3_anfaenger_online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="live_coding.kapitel2_flusskontrolle.*" />
+          <option name="PATTERN" value="live_coding.kapitel4_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methods_2_wiederholung" />
+        <item itemvalue="Application.Methods_1" />
+        <item itemvalue="Application.ifElse_Anweisung_1" />
         <item itemvalue="Application.While_scanner_random_3" />
         <item itemvalue="Application.Input_und_Random_7" />
-        <item itemvalue="Application.WhileSchleife_2" />
-        <item itemvalue="Application.ifElse_Anweisung_1" />
-        <item itemvalue="Application.Operatoren_4" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +169,15 @@
       <workItem from="1716146148849" duration="1000" />
       <workItem from="1716393539411" duration="408000" />
       <workItem from="1716624058770" duration="603000" />
-      <workItem from="1716625200063" duration="7492000" />
+      <workItem from="1716625200063" duration="8194000" />
+      <workItem from="1716633774604" duration="617000" />
+      <workItem from="1717229415717" duration="3196000" />
+      <workItem from="1717233225220" duration="3361000" />
+      <workItem from="1717237267048" duration="1203000" />
+      <workItem from="1717322591103" duration="28000" />
+      <workItem from="1717833183530" duration="10362000" />
+      <workItem from="1718233173041" duration="53000" />
+      <workItem from="1718438795523" duration="9296000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <option name="closed" value="true" />
@@ -228,7 +243,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716131347468</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add random, scanner, while wiederholung">
+      <option name="closed" value="true" />
+      <created>1716633282483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716633282483</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add arrays and methods">
+      <option name="closed" value="true" />
+      <created>1717322608013</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717322608013</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add arrays and methods">
+      <option name="closed" value="true" />
+      <created>1717918958597</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717918958597</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add hausaufgaben 0-4 markdowns">
+      <option name="closed" value="true" />
+      <created>1718233214323</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718233214323</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +301,9 @@
     <MESSAGE value="add if else" />
     <MESSAGE value="update ifelse example" />
     <MESSAGE value="add while" />
-    <option name="LAST_COMMIT_MESSAGE" value="add while" />
+    <MESSAGE value="add random, scanner, while wiederholung" />
+    <MESSAGE value="add arrays and methods" />
+    <MESSAGE value="add hausaufgaben 0-4 markdowns" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hausaufgaben 0-4 markdowns" />
   </component>
 </project>

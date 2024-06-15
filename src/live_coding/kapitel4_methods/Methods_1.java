@@ -1,6 +1,6 @@
 package live_coding.kapitel4_methods;
 
-public class methods_1 {
+public class Methods_1 {
 
     // ohne param, ohne return
     public static void willkommenMethode() {
