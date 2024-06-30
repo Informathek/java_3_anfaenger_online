@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add hausaufgaben 0-4 markdowns">
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/Methods_2_wiederholung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_2_static.java" afterDir="false" />
+    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add resources">
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_3_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_5_static_zusammenfassung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_6_konstruktor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/methods_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/live_coding/kapitel4_methods/Methods_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_2_static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP/OOP_2_static_intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,14 @@
     "Application.Arrays_2_wiederholung.executor": "Run",
     "Application.Datentypen_und_Literale_3.executor": "Run",
     "Application.Input_und_Random_7.executor": "Run",
+    "Application.Methoden_1.executor": "Run",
     "Application.Methods_2_wiederholung.executor": "Run",
     "Application.OOP_1_intro.executor": "Run",
     "Application.OOP_2_intro_wiederholung.executor": "Run",
+    "Application.OOP_2_static.executor": "Run",
+    "Application.OOP_3_static.executor": "Run",
+    "Application.OOP_4_konstruktor.executor": "Run",
+    "Application.OOP_6_konstruktor.executor": "Run",
     "Application.Operatoren_4.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
@@ -65,22 +71,28 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="live_coding.kapitel5_OOP" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="live_coding.kapitel2_flusskontrolle" />
       <recent name="live_coding.kapitel1_introduction" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Input_und_Random_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel1_introduction.Input_und_Random_7" />
+    <configuration name="Methoden_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resources.kapitel4_methoden.Methoden_1" />
       <module name="java_3_anfaenger_online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="live_coding.kapitel1_introduction.*" />
+          <option name="PATTERN" value="resources.kapitel4_methoden.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_scanner_random_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel2_flusskontrolle.While_scanner_random_3" />
+    <configuration name="OOP_3_static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="live_coding.kapitel5_OOP.OOP_3_static" />
       <module name="java_3_anfaenger_online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="live_coding.kapitel2_flusskontrolle.*" />
+          <option name="PATTERN" value="live_coding.kapitel5_OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_3_static" />
+        <item itemvalue="Application.Methoden_1" />
         <item itemvalue="Application.Methods_2_wiederholung" />
         <item itemvalue="Application.Methods_1" />
         <item itemvalue="Application.ifElse_Anweisung_1" />
-        <item itemvalue="Application.While_scanner_random_3" />
-        <item itemvalue="Application.Input_und_Random_7" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +189,12 @@
       <workItem from="1717322591103" duration="28000" />
       <workItem from="1717833183530" duration="10362000" />
       <workItem from="1718233173041" duration="53000" />
-      <workItem from="1718438795523" duration="9296000" />
+      <workItem from="1718438795523" duration="9422000" />
+      <workItem from="1719044920317" duration="158000" />
+      <workItem from="1719045091418" duration="9000" />
+      <workItem from="1719127297825" duration="50000" />
+      <workItem from="1719647444172" duration="147000" />
+      <workItem from="1719647715567" duration="10573000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <option name="closed" value="true" />
@@ -275,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718233214323</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add hausaufgaben 0-4 markdowns">
+      <option name="closed" value="true" />
+      <created>1718448176821</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718448176821</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add resources">
+      <option name="closed" value="true" />
+      <created>1719045072027</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719045072027</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +337,7 @@
     <MESSAGE value="add random, scanner, while wiederholung" />
     <MESSAGE value="add arrays and methods" />
     <MESSAGE value="add hausaufgaben 0-4 markdowns" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hausaufgaben 0-4 markdowns" />
+    <MESSAGE value="add resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="add resources" />
   </component>
 </project>

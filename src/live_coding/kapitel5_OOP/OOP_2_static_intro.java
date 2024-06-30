@@ -21,7 +21,7 @@ class House{
     static int anzahlZimmer;
 }
 
-public class OOP_2_static {
+public class OOP_2_static_intro {
 
     public static void main(String[] args) {
 
