@@ -1,4 +1,4 @@
-package live_coding.kapitel5_OOP;
+package live_coding.kapitel5_OOP1;
 
 //int[] arr = {8,6,9,4,2};
 //arr[3]
