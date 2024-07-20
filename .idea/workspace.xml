@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add static, konstruktor">
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP1/OOP_7_this.java" afterDir="false" />
+    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add zugriff modifikatoren">
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel1_introduction/ErrorHandling_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP1/OOP_10_toString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -44,9 +46,11 @@
     "Application.Arrays_1.executor": "Run",
     "Application.Arrays_2_wiederholung.executor": "Run",
     "Application.Datentypen_und_Literale_3.executor": "Run",
+    "Application.ErrorHandling_8.executor": "Run",
     "Application.Input_und_Random_7.executor": "Run",
     "Application.Methoden_1.executor": "Run",
     "Application.Methods_2_wiederholung.executor": "Run",
+    "Application.OOP_10_toString.executor": "Run",
     "Application.OOP_1_intro.executor": "Run",
     "Application.OOP_2_intro_wiederholung.executor": "Run",
     "Application.OOP_2_static.executor": "Run",
@@ -200,7 +204,8 @@
       <workItem from="1719732568791" duration="8840000" />
       <workItem from="1719741533355" duration="1609000" />
       <workItem from="1720336357706" duration="154000" />
-      <workItem from="1720858704984" duration="2539000" />
+      <workItem from="1720858704984" duration="9629000" />
+      <workItem from="1721458708717" duration="9077000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <option name="closed" value="true" />
@@ -330,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720336370836</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add zugriff modifikatoren">
+      <option name="closed" value="true" />
+      <created>1720942840393</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720942840393</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +374,7 @@
     <MESSAGE value="add hausaufgaben 0-4 markdowns" />
     <MESSAGE value="add resources" />
     <MESSAGE value="add static, konstruktor" />
-    <option name="LAST_COMMIT_MESSAGE" value="add static, konstruktor" />
+    <MESSAGE value="add zugriff modifikatoren" />
+    <option name="LAST_COMMIT_MESSAGE" value="add zugriff modifikatoren" />
   </component>
 </project>
