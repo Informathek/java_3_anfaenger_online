@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add exception, toString">
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP1/OOP_11_toString_wiederholung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel5_OOP1/OOP_12_encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel6_OOP2/Vererbung_1.java" afterDir="false" />
+    <list default="true" id="de60356b-da91-48dd-b911-5c3d3c270761" name="Changes" comment="add encapsulation, vererbung">
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel6_OOP2/Vererbung_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/live_coding/kapitel6_OOP2/this2_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +62,11 @@
     "Application.OOP_7_Konstruktor_wiederhilung.executor": "Run",
     "Application.OOP_7_this.executor": "Run",
     "Application.OOP_Konstruktor_7_wiederholung.executor": "Run",
+    "Application.OOP_wiederholung_2.executor": "Run",
     "Application.Operatoren_4.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Vererbung_1.executor": "Run",
+    "Application.Vererbung_3.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
     "Application.While_scanner_random_3.executor": "Run",
     "Application.ifElse_Anweisung_1.executor": "Run",
@@ -210,7 +211,8 @@
       <workItem from="1720336357706" duration="154000" />
       <workItem from="1720858704984" duration="9629000" />
       <workItem from="1721458708717" duration="9231000" />
-      <workItem from="1722067699859" duration="9344000" />
+      <workItem from="1722067699859" duration="9397000" />
+      <workItem from="1722672140236" duration="10374000" />
     </task>
     <task id="LOCAL-00001" summary="add readme">
       <option name="closed" value="true" />
@@ -356,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721471536503</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add encapsulation, vererbung">
+      <option name="closed" value="true" />
+      <created>1722147658750</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722147658750</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,6 +399,7 @@
     <MESSAGE value="add static, konstruktor" />
     <MESSAGE value="add zugriff modifikatoren" />
     <MESSAGE value="add exception, toString" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exception, toString" />
+    <MESSAGE value="add encapsulation, vererbung" />
+    <option name="LAST_COMMIT_MESSAGE" value="add encapsulation, vererbung" />
   </component>
 </project>
